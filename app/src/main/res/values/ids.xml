@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item name="camera_0" type="id"/>
+    <item name="camera_1" type="id"/>
+    <item name="camera_2" type="id"/>
+    <item name="camera_3" type="id"/>
+    <item name="camera_4" type="id"/>
+
+
+</resources>
